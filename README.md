@@ -11,16 +11,6 @@ A high-performance, fully responsive website built for a modern digital design a
 
 ---
 
-## 🛠️ Tech Stack & Architecture
-
-**Backend**: Javascript,
-**Frontend**: React, Tailwind CSS, HTML & CSS, Vite 7.2
-**AI Integration**: Vercel AI SDK
-**Framework**: Next JS 14/15
-**Animations**: Framer Motion, GSAP.
-**Forms**: React Hook Form + Zod.
----
-
 ## ✨ Key Features
 
 - **Dynamic Interactive Portfolio:** A filterable grid showcasing agency case studies, branding assets, and marketing campaigns.
